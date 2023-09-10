@@ -1,0 +1,22 @@
+{
+  "name": "nodelab",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chaluemwut/nodelab.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chaluemwut/nodelab/issues"
+  },
+  "homepage": "https://github.com/chaluemwut/nodelab#readme",
+  "dependencies": {
+    "jest": "^29.6.4"
+  }
+}
